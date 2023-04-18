@@ -4,17 +4,20 @@
   }
   
 .section-blue {
-
+  color: #ffa500;
+  background-color: blue;
 }
   
 .container {
-
+  color: white;
+  background-color: black;
 }
 
 #section-1 {
-
+  color: #ffff00;
+  background-color: purple;
 }
 
 #section-6 {
-
+  color: #ffff00
 }

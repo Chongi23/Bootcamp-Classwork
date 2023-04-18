@@ -33,7 +33,6 @@ If your version of Git is 2.28 or older, you'll first need to update Git.
   ```
 
 To set the default branch to `main`, both Windows and Mac users will run the following command:
-
   ```bash
   git config --global init.defaultBranch main
   ```

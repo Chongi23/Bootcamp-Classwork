@@ -21,7 +21,7 @@ Work with a partner to implement the following user story:
 * It's done when the finished page matches the mockup. 
 
 ## 📝 Notes
-
+ 
 Refer to the documentation: 
 
 [MDN Web Docs on color](https://developer.mozilla.org/en-US/docs/Web/CSS/color)
